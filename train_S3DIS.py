@@ -21,6 +21,7 @@
 #       \**********************************/
 #
 #-----yvana----
+#---add new idea----#
 # Common libs
 import signal
 import os
